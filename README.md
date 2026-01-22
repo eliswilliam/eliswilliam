@@ -8,7 +8,7 @@
 
 Sou desenvolvedor full stack e cientista da computação, com foco no desenvolvimento de soluções escaláveis e eficientes.
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="output_d803e65b-ad54-4df1-99d1-913a172eb0fd.gif">
 
 <h3 align="left">Connect with me!</h3>
 
