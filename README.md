@@ -49,3 +49,19 @@ Sou desenvolvedor full stack e cientista da computação, com foco no desenvolvi
 #
 
 ## Github Stats
+
+<table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia0126&theme=codeSTACKr" alt="eliswilliam GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Julia0126&theme=codeSTACKr&utcOffset=-3" alt="eliswilliam GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia0126&theme=codeSTACKr" alt="eliswilliam's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Julia0126&theme=codeSTACKr" alt="eliswilliam's GitHub Stats"/></td>
+    </tr>
+</table>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliswilliam/eliswilliam/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliswilliam/eliswilliam/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake.svg">
+</picture>
