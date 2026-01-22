@@ -6,13 +6,13 @@
 
 ##  Oi, eu sou o william!
 
-Sou desenvolvedor full stack e cientista da computação, com foco no desenvolvimento de soluções escaláveis e eficientes, aplicando boas práticas de engenharia de software para projetos com impacto social e relevância prática.
+Sou desenvolvedor full stack e cientista da computação, com foco no desenvolvimento de soluções escaláveis e eficientes.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:eliswilliam01.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:eliswilliam01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/william-elis-515aa9364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
 
 #
@@ -36,7 +36,7 @@ Sou desenvolvedor full stack e cientista da computação, com foco no desenvolvi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+   <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
   
   <img width="8" />
 </div>
