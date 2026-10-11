@@ -37,14 +37,16 @@ Sou cientista da computação com experiência em engenharia de dados utilizando
 
 <h3 align="left">My Badges ~</h3>
 
-<div align="left">
-  <a href="https://www.credly.com/badges/5007b06e-7e9b-44ba-a1a8-c1eaeb20ec50/linked_in_profile">
-    <img src="./IMG_3474.PNG" alt="Microsoft AI Skills Fest 2026" width="180" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.credly.com/badges/5007b06e-7e9b-44ba-a1a8-c1eaeb20ec50/linked_in_profile"><img src="./IMG_3474.PNG" alt="Microsoft AI Skills Fest 2026" width="160" /></a></td>
+    <td align="center"><img src="./assets/azure-databricks-unity-catalog.svg" alt="Limpar, transformar e carregar dados no Catálogo do Unity" width="160" /></td>
+    <td align="center"><img src="./assets/azure-databricks-pipelines.svg" alt="Implantar e manter pipelines de dados e cargas de trabalho com Azure Databricks" width="160" /></td>
+    <td align="center"><img src="./assets/azure-databricks-data-processing.svg" alt="Preparar e processar dados com Azure Databricks" width="160" /></td>
+  </tr>
+</table>
 
 #
-
 ## Github Stats
 
 <table align="center" width="100%" height="100%" >
@@ -62,6 +64,7 @@ Sou cientista da computação com experiência em engenharia de dados utilizando
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliswilliam/eliswilliam/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eliswilliam/eliswilliam/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
