@@ -6,8 +6,7 @@
 
 ##  Oi, eu sou o william!
 
-Sou desenvolvedor full stack e cientista da computação, Experiência em Python (FastAPI, Flask), Node.js, JavaScript/TypeScript,java , deep learning com PyTorch
-e infra em Google Cloud/Azure/aws. .
+Sou cientista da computação com experiência em engenharia de dados utilizando Azure Databricks. Trabalho com PySpark, SQL, Delta Lake e Unity Catalog na construção de pipelines de ingestão, transformação e qualidade de dados. Também desenvolvo aplicações com Python (FastAPI e Flask), Node.js e TypeScript, e tenho experiência com deep learning usando PyTorch e serviços de nuvem como Azure, AWS e Google Cloud.
 
 <img align="right" alt="" height="190px" src="output_d803e65b-ad54-4df1-99d1-913a172eb0fd.gif">
 
@@ -21,41 +20,28 @@ e infra em Google Cloud/Azure/aws. .
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />  
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="25" />
-          
-   <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"  height="45"/>
-          
-  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="25" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=py" height="25" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch" />
+  <img src="./assets/databricks-logo.svg" height="25" alt="Databricks" />
 </div>
 
 #
 
 <h3 align="left">My Badges ~</h3>
 
-<a href="https://www.credly.com/badges/5007b06e-7e9b-44ba-a1a8-c1eaeb20ec50/linked_in_profile">
-  <img
-    src="./IMG_3474.PNG"
-    alt="Microsoft AI Skills Fest 2026"
-    width="180"
-  />
+<div align="left">
+  <a href="https://www.credly.com/badges/5007b06e-7e9b-44ba-a1a8-c1eaeb20ec50/linked_in_profile">
+    <img src="./IMG_3474.PNG" alt="Microsoft AI Skills Fest 2026" width="180" />
+  </a>
+</div>
 
 #
 
@@ -76,3 +62,6 @@ e infra em Google Cloud/Azure/aws. .
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliswilliam/eliswilliam/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eliswilliam/eliswilliam/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
